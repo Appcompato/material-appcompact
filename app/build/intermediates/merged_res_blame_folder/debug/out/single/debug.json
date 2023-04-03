@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.taskcombo.unirty.app-merged_res-42:/drawable_logo.png.flat",
+        "source": "com.taskcombo.unirty.app-main-44:/drawable/logo.png"
+    },
+    {
+        "merged": "com.taskcombo.unirty.app-merged_res-42:/xml_data_extraction_rules.xml.flat",
+        "source": "com.taskcombo.unirty.app-main-44:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.taskcombo.unirty.app-merged_res-42:/layout_activity_m.xml.flat",
+        "source": "com.taskcombo.unirty.app-main-44:/layout/activity_m.xml"
+    },
+    {
+        "merged": "com.taskcombo.unirty.app-merged_res-42:/xml_backup_rules.xml.flat",
+        "source": "com.taskcombo.unirty.app-main-44:/xml/backup_rules.xml"
+    }
+]
